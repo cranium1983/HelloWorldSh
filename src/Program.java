@@ -4,5 +4,6 @@ public class Program {
 
         System.out.println("Hello Java Sh!");
         System.out.println("new Line");
+        System.out.println("new Line2");
     }
 }
